@@ -66,6 +66,6 @@
     FOREIGN KEY (GalleryID) REFERENCES Gallery(GalleryID));
     );
 ```
-
+![ERD](./casestudyERD.md.png)
 
 
